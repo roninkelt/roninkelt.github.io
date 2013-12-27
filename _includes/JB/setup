@@ -9,7 +9,7 @@
       {% assign BASE_PATH = site.JB.BASE_PATH %}
       {% assign HOME_PATH = site.JB.BASE_PATH %}
     {% else %}
-      {% assign BASE_PATH = nil %}
+      {% assign BASE_PATH = site.local_url %} 
       {% assign HOME_PATH = "/" %}
     {% endif %}
 
