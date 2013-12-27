@@ -29,3 +29,7 @@ I both design and play rpg's. My personal preference for both is those with an e
 ## Creative Writing
 
 I'm an amateur author as well. I write screenplays, short and long form fiction. Still working on perfecting my craft and have not as yet published or produced anything commercially.
+
+## A Common Thread
+
+Running through everything above is storytelling. I love to tell a story, whether it be to an audience of 200 or the 5 players sitting around the table with me.

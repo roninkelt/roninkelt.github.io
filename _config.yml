@@ -4,6 +4,13 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: rdiscount
+rdiscount:
+  extensions:
+    - autolink      # greedily urlify links
+    - footnotes     # allow footnote syntax
+    - smart         #typographic substitutions with SmartyPants
+    - generate_toc
+
 permalink: pretty
 pygments: true
 encoding: UTF-8
