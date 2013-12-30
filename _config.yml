@@ -9,10 +9,13 @@ markdown: rdiscount
 rdiscount:
   extensions:
     - autolink      # greedily urlify links
-    - footnotes     # footnotes
-    - smart         # typographic substitutions with SmartyPants
+    - footnotes     # allow footnote syntax
+    - smart         #typographic substitutions with SmartyPants
+    - generate_toc
     - footnotes
-    - generate_toc      
+
+permalink: pretty
+encoding: UTF-8    
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
