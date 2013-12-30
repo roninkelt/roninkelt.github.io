@@ -1,10 +1,19 @@
-<!--vim: set wrap ts=8 tw=0 fileencoding=utf-8 :-->
 ---
 layout: page
 title: RoninKelt's Meandering for Meaning
 tagline: Masterless Artist and Warrior
 ---
 {% include JB/setup %}
+
+## Roleplaying Games
+
+A role-playing game (RPG and sometimes roleplaying game) is a game in which players assume the roles of characters in a fictional setting. Players take responsibility for acting out these roles within a narrative, either through literal acting or through a process of structured decision-making or character development. Actions taken within many games succeed or fail according to a formal system of rules and guidelines.
+
+I both design and play rpg's. My personal preference for both is those with an emphasis on building a strong narrative and character development.
+
+## Creative Writing
+
+I'm an amateur author as well. I write screenplays, short and long form fiction. Still working on perfecting my craft and have not as yet published or produced anything commercially.
 
 ## Visual Effects 
 
@@ -20,16 +29,6 @@ Visual effects may be divided into at least four categories:
 My day job is as a Digital Compositor.  I take all the pieces that everyone else on the film generates - green screens, cgi, matte paintings, etc, it could be dozens of pieces.  Then I turn them into the believable imagery that you see on screen. My hands are the last to touch a shot before it goes out the door of a vfx facility.
 
 I love doing it. The job is both creatively and technically challenging and no two projects are quite the same.
-
-## Roleplaying Games
-
-A role-playing game (RPG and sometimes roleplaying game) is a game in which players assume the roles of characters in a fictional setting. Players take responsibility for acting out these roles within a narrative, either through literal acting or through a process of structured decision-making or character development. Actions taken within many games succeed or fail according to a formal system of rules and guidelines.
-
-I both design and play rpg's. My personal preference for both is those with an emphasis on building a strong narrative and character development.
-
-## Creative Writing
-
-I'm an amateur author as well. I write screenplays, short and long form fiction. Still working on perfecting my craft and have not as yet published or produced anything commercially.
 
 ## A Common Thread
 
