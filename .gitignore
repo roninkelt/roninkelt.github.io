@@ -1,7 +1,12 @@
-_site/*
+#Generated Site
+_site/
+
 _theme_packages/*
 
+#Windows
 Thumbs.db
+
+#OS X
 .DS_Store
 
 !.gitkeep

@@ -1,3 +1,4 @@
+<!--vim: set wrap ts=8 tw=0 fileencoding=utf-8 :-->
 ---
 layout: page
 title: RoninKelt's Meandering for Meaning
