@@ -69,6 +69,7 @@ task :post do
     post.puts "tags: #{tags}"
     post.puts "---"
     post.puts "{% include JB/setup %}"
+    post.puts "{% comment %} <!--vim: set wrap ts=8 tw=0 fileencoding=utf-8 :--> {% endcomment %}"
   end
 end # task :post
 
@@ -94,6 +95,7 @@ task :page do
     post.puts 'description: ""'
     post.puts "---"
     post.puts "{% include JB/setup %}"
+    post.puts "{% comment %} <!--vim: set wrap ts=8 tw=0 fileencoding=utf-8 :--> {% endcomment %}"
   end
 end # task :page
 
