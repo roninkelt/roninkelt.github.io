@@ -22,12 +22,12 @@ encoding: UTF-8
 title : Meanderings for Meaning
 tagline: A brownian search for purpose
 author :
-  name : Roninkelt
+  name : RoninKelt
   email : roninkelt@yahoo.com
   github : roninkelt
   twitter : roninkelt
-  feedburner : Meandering for Meaning
-
+  feedburner : roninkelt/xiGr
+  facebook: ronin.kelt
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
