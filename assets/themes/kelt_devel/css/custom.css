@@ -16,6 +16,11 @@ body {
 .navbar-nav > li > a {
   color: #888;
 }
+
 .navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
   color: #bbb;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+  background-color: #333;
 }
