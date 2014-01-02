@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RoninKelt's Meandering for Meaning
+title: RoninKelt's brownian journey
 tagline: Masterless Artist and Warrior
 ---
 {% include JB/setup %}
@@ -33,5 +33,5 @@ I love doing it. The job is both creatively and technically challenging and no t
 ## A Common Thread
 
 Running through everything above is storytelling. I love to tell a story, whether it be to an audience of 200 or the 5 players sitting around the table with me.
-{% comment %} <!--vim: set wrap ts=8 tw=0 fileencoding=utf-8 :--> {% endcomment %}
+{% comment %} <!--vim: set wrap filetype=markdown ts=8 tw=0 fileencoding=utf-8 :--> {% endcomment %}
 
